@@ -1,0 +1,36 @@
+{
+    "cells": [
+        {
+            "title": "Introduction",
+            "image": "https://www.flaticon.com/free-icon/spade_2245037?term=cookware&page=1&position=17"
+        },
+		{
+			"title": "Kitchen setup: Cookware",
+			"image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+		},
+		{
+			"title": "Fruit and Vegetables",
+			"image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+		},
+		{
+			"title": "Peeling: Tomatoes",
+			"image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+		},
+		{
+			"title": "Boiled and scrambled eggs",
+			"image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+		},
+		{
+			"title": "Noodle: Dough",
+			"image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+		},
+		{
+			"title": "Homemade Tortilla",
+			"image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+		},
+		{
+			"title": "Cooking Philosophies",
+			"image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
+		}
+    ]
+}

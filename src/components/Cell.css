@@ -1,0 +1,32 @@
+.CellImage {
+    width: 60px;
+    height: 60px;
+    background: #c4c4c4;
+    border-radius: 10px;
+    background-size: 60px;
+}
+
+.CellGroup {
+    grid-template-rows: repeat(1, 1fr);  
+}
+
+.CellGroupLeft {
+    position:absolute;
+    display:grid;
+    float: left;
+    grid-template-columns: 60px auto;
+    grid-gap: 25px;
+    left: 190px;
+
+
+
+}
+
+.CellGroupRight {
+    position: absolute;
+    display:grid;
+    float: right;
+    grid-template-columns: 60px auto;
+    grid-gap: 25px;
+    right: 290px; 
+}
